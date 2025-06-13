@@ -1,5 +1,6 @@
 # Exploring the Relationships Between Economic Growth and Population Change
-![Population change relative to GDP growth](ratio heatmap 1.png)
+
+![Population change relative to GDP growth](gdp_vs_pop/ratio heatmap 1.png)
 
 This is a data analysis project aimed at exploring how economic growth in a region affects its population. It covers a date range of twenty years between 2000 and 2020. 
 
