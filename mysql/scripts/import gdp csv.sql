@@ -1,0 +1,8 @@
+USE gdp_vs_population;
+
+LOAD DATA LOCAL INFILE '/Users/maxbauer/Documents/GDP vs Population Capstone Project/CAGDP1/CAGDP1__ALL_AREAS_2001_2023.csv'
+INTO TABLE gdp_2001_2023
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
