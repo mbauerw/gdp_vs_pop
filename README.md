@@ -6,4 +6,4 @@ To see the full report Download GDP-vs-Population-Analysis.html and view in a br
 
 ![ScreenShot](https://github.com/mbauerw/gdp_vs_pop/blob/main/heatmap_clipped.png) 
 
-The goal was to explore whether regions of the United States with growing economies are more likely to attract newcomers than other parts of the country. The project also attempts to model the data in order to make population predictions for the period between 2020 and 2025. I hope you find it as interesting as I did!
+The goal was to explore whether regions of the United States with growing economies are more likely to attract people than other parts of the country. The project also attempts to model the data in order to make population predictions for the period between 2020 and 2025. I hope you find it as interesting as I did!
